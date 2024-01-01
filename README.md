@@ -5,7 +5,11 @@ The project uses network simulation tools like NS-3 to simulate WSNs and deploy 
 Key Outcomes:
 
 Performance analysis of TLS 1.3 cipher suites in WSN environments using NS-3
-Baseline measurements of throughput, latency, encryption/decryption overhead
-Comparative evaluation with deprecated TLS cipher suites
-Identification of factors affecting TLS 1.3 performance in resource-constrained WSNs
-Guidelines for optimization and deployment of TLS 1.3 in IoT/WSNs
+
+2.Baseline measurements of throughput, latency, encryption/decryption overhead
+
+3.Comparative evaluation with deprecated TLS cipher suites
+
+4.Identification of factors affecting TLS 1.3 performance in resource-constrained WSNs
+
+5.Guidelines for optimization and deployment of TLS 1.3 in IoT/WSNs
